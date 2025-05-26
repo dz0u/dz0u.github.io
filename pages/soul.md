@@ -1,0 +1,1 @@
+- A conceptual container created by #Akasha as a means to prevent the [[True Death of the Universe]]. It weighs exactly 0.4632 grams.

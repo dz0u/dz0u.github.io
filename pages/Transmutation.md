@@ -1,0 +1,4 @@
+- These three laws govern the #magic of transforming one item into another.
+	- [[First Law of Transmutation]], or the law of Conservation
+	- [[Second Law of Transmutation]], or the law of Preservation
+	- [[Third Law of Transmutation]], or the law of Life

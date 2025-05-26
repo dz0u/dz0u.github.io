@@ -1,0 +1,1 @@
+- The #Deity of #Records, keeper of souls and deliverer of death. It holds jurisdiction over time, and determines the order of events.

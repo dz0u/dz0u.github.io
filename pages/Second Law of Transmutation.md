@@ -1,0 +1,1 @@
+- This is the second law of #Transmutation and states that transmutation may not move an object's location in space without first vacating the space around it of matter.

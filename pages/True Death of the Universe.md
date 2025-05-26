@@ -1,0 +1,2 @@
+- The theoretical final end to the world itself. There are a variety of possible contenders:
+	- [[Loose Change Death]]: This theory states that when #plunderer s from [[other worlds]] attack inhabitants of this one, their conceptual life force will be destroyed rather than returning to #Akasha.

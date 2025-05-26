@@ -1,0 +1,1 @@
+- A type of invader from one of the [[other worlds]] that tries to take energy from this one. These include #demon s, #changeling s, #harvester s, and #temporal s.

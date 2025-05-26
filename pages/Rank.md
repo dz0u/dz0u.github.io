@@ -1,0 +1,1 @@
+- The domain over which a #Deity governs. These are conceptual rather than physical territory.
