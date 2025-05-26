@@ -1,0 +1,2 @@
+- https://discord.gg/U3AwEa24H2
+- Permanent discord link
