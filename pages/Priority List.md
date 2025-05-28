@@ -1,4 +1,3 @@
 - #TODO
 - NPC List: Define your people, then your setting
-- WORLD MAPS: Get physical blueprints done first!
--
+- WORLD MAPS: Done! #Map

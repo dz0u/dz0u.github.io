@@ -1,0 +1,1 @@
+- The ruler and governor of the [[Hua Divine Empire]]. As the nation is a theocracy, he serves as the mouthpiece for #Shiyin. However, his power is not absolute. His mandate of authority only holds so long as he is believed to be serving as Shiyin's voice. Actions that go against the popular opinion are often decried as breaking Shiyin's trust by opponents.

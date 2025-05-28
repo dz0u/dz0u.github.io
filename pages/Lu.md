@@ -1,0 +1,3 @@
+- The Lu people descend from the #angels. They retain their religious inclinations, and the Lu heartlands still worship #Shiyin, supreme #Deity of #salvation, though the outerlands carry on a newer, ancestral folk religion.
+- The Lu are winged folk, each possessing two wings that, even when folded on their back, take up a fairly large amount of space. They inherit ancestral magic that enables the function of these wings. Rarely, individuals are born with the inability to use this magic, or any magic at all, rendering them unable to fly.
+- Guided by their official deity, the Lu people and the [[Hua Divine Empire]]'s policies tend to be welcoming and compassionate. However, they are also fiercely territorial, and feuds can last generations.
