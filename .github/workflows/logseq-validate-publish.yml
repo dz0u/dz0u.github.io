@@ -25,14 +25,11 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-<<<<<<< HEAD
   # Temporarily disabled validation. Reenable once every reference has a FILLED OUT page.
   #    - name: Run graph-validator tests
   #      uses: logseq/graph-validator@main
-=======
       # - name: Run graph-validator tests
         # uses: logseq/graph-validator@main
->>>>>>> 419c85c7118da01d4a02b507ea196c76adddb8d7
       - name: Build Logseq graph
         uses: logseq/publish-spa@main
         with:
