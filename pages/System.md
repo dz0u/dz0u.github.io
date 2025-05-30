@@ -1,0 +1,5 @@
+- This system is heavily based on https://cityofmist.co/blogs/news/tags-and-statuses-in-city-of-mist-ttrpg and its tag/status system.
+- #tag s represent 3 things: Story, Ability, Character. Each time you make a move, you may add one tag from each category to your move, for a total of up to 3 tags. Each positive tag adds 1 to your total roll. Tags can be anything.
+- #status es represent effects that currently apply to your character. Up to three statuses may affect your character at any time, and each status has a tier. For example, the status **broken-arm-3** will add a -3 to any roll that attempts to use that arm.
+- Generally, you can divide things in the system into **Temporary** and **Permanent** effects. For example, a Story tag like **falchion** is in fact temporary: the weapon could be destroyed, stolen, etc.. On the other hand, an ability tag like **fire magic** is permanent. It's part of your character's moveset. Note that all statuses are temporary.
+- When you make a #move, you roll 3d6 and add your tags and your statuses to the move, adding positive effects and subtracting negative ones. If you succeed, you get a #action.
