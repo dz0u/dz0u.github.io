@@ -1,1 +1,1 @@
-- Her name means "the one who hears", and she is the #Deity of #salvation. For the Lu people of the [[Hua Divine Empire]], she is their only true ruler. The #Emperor is simply her foremost mortal retainer.
+- Her name means "the one who hears", and she is the #Deity of #salvation. For the Lu people of the [[Hua Divine Empire]], she is their only true ruler. The #Emperor is simply her foremost mortal retainer. The foremost member of the #Pantheon.

@@ -1,0 +1,1 @@
+- The reborn #deity of #Radiance, and a member of the #Pantheon.
