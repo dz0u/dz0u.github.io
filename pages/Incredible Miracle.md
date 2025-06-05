@@ -1,0 +1,3 @@
+- General list of characters and thoughts for IM.
+- [[IM Character Template]]
+- [[Quetzal]]
