@@ -50,3 +50,5 @@ gender:: F
 - ---
 - ### Appearance
 	- Kirara has distinctive blue hair and is only 4'10". These are her primary distinguishing features.
+	- ![shovelgirl1.jpg](../assets/shovelgirl1_1749086571666_0.jpg){:height 395, :width 331}
+	- ![shovelgirl2.jpg](../assets/shovelgirl2_1749086599298_0.jpg){:height 487, :width 332}
