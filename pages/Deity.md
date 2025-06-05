@@ -1,1 +1,0 @@
-- Divine beings possessing a special #Rank which represents their domain of power.

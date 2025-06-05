@@ -1,1 +1,9 @@
-- Her name means "the one who hears", and she is the #Deity of #salvation. For the Lu people of the [[Hua Divine Empire]], she is their only true ruler. The #Emperor is simply her foremost mortal retainer. The foremost member of the #Pantheon.
+true-name:: Guanshiyin
+rank:: Salvation
+other-names:: The Merciful One, Gracefeel
+symbols:: candles, the hamsa
+era-of-birth:: Modern Era
+allegiance:: Order
+status:: active
+
+- The supreme #goddess Shiyin of #Salvation is the most-honored goddess in Llethis, though not the part of the most-worshipped faith. One of the members of #Pantheon, Shiyin last made her presence known over three hundred years ago when she manifested a miracle of healing that saved an #Emperor and ended

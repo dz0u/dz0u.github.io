@@ -1,6 +1,6 @@
 template:: IM Character Template
 legal-name::
-alias::
+names::
 species::
 height::
 gender::

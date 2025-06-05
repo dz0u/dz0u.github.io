@@ -1,2 +1,2 @@
-- To prevent #plunderer s from ending the universe itself, Akasha created the #soul, a container for conceptual life force that holds it safely. Thus, #plunderer s are no longer a threat to natives of this world, and some have even been accepted among native cultures.
-- However, the Loose Change Death is still possible: space-time rifts, #forbidden #magic, and other #Deity -like beings can still deplete conceptual life force even with the protection of the soul.
+- To prevent #plunderers from ending the universe itself, Akasha created the #soul, a container for conceptual life force that holds it safely. Thus, #plunderers are no longer a threat to natives of this world, and some have even been accepted among native cultures.
+- However, the Loose Change Death is still possible: space-time rifts, #forbidden #magic, and other #god -like beings can still deplete conceptual life force even with the protection of the soul.

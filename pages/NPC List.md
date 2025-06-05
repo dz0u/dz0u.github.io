@@ -1,2 +1,1 @@
 - [[Lulunata Azureus]], the #Witch of the #West
-- [[Viola Corvus]], #Deity of #Radiance
