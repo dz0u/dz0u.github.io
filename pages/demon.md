@@ -1,4 +1,4 @@
-alias:: demons
+alias:: demons, demonkind
 
 - Demons, unlike the other #plunderers, were once part of the elder races. They were those who underwent the greatest corruption from the #Dreamer. Their bodies changed in ways that enabled their deepest desires. Many demons became incredibly strong, others overwhelmingly beautiful. But they were rejected by the world itself following the Middle Era and the reestablishment of the barrier.
 - This rejection changed them even further. The strongest demons turned into genuine monsters. The beautiful ones grew yet more beautiful features, but these traits didn't resemble human ones anymore. With demonhood a stigma, and young demons dying due to rejection they could no longer withstand, many of the demons fled before the barrier closed, falling entirely within the grasp of the Dreamer.

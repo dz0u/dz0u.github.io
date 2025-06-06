@@ -1,3 +1,5 @@
+alias:: tags
+
 - Tags come in three types:
 	- **Story** tags can be items, places, or other *things* in the story. They're temporary because eventually the characters will move on, or the item will be destroyed or taken away. Story tags can have their own #status es! They can also grant statuses to the person interacting with them. As an easy example, a story tag like **razor trap** might apply a **cut-1** status. Alternatively, a story tag like **flaming dagger** might grant a **burning-weapon-1** status. Another example: an enchanted door might have the status **lasting-4** itself, and apply the status **drained-1** to anyone attempting to open it by force. You can find more important statuses on the #status page.
 	- **Ability** tags are exactly what the name implies: unique powers that your character possesses. These can be fairly general: they're meant to describe an aspect of your character's overall moveset. For example, **flying spear technique** could be an ability tag. Or **fire magic**.
