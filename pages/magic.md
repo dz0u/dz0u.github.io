@@ -1,0 +1,13 @@
+alias:: magics
+
+- Magic in Llethis is the core of supernatural power. There are a number of types of magic, but on a fundamental level, every kind of magic is a power drawn from a #divinity. Following the Middle Era, the majority of human magic stems from the domain of #Esyl, hence why she is the goddess of magic.
+  All magic depends on *language.* The commonly used Llethic tongue is central to most modern human spells, while humans can't use Yithic magic simply because they can't physically use the yithic language. This is because magic is recorded by #Akasha in the language it was created with, hence spells, once made, may retain their fundamental language structure for centuries.
+	- ### Human Magic
+		- The primary type of magic still extant today. Human magic, or more commonly just magic, primarily focuses on elemental power. It tends to reflect the natural world. A swordsman's cutting winds, the acceleration and superstrength of a fighter, the fireballs and rays of light cast by mages, up to complex spells like duplicating arrows, enchanted forests, and more all fall under this type of magic. Almost everything a human being can think of is covered, fittingly, by human magic.
+		- Human magic does not require a powerful faith or connection to the divine to access. Instead, it is an intrinsic part of being human, and something that can be trained. Magic doesn't truly run out, but a mage's power depends on how much of the divinity of magic they can handle, and their own imagination.
+	- ### Yithic Magic
+		- The oldest form of magic in the world, yithic magic draws upon the domain of #records, and focuses on powers like time manipulation, mind control, and similar abilities associated with #Akasha.
+		- Yithic magic requires the ability to communicate in yithic, which is not any language we know of, and still a mystery.
+	- ### Divine Magic
+		- Though generally classified as "divine magic", it's a catchall phrase that represents all magic stemming from a divinity not belonging to Esyl. For example, the rare priest of the [[Origin Light]] could be considered a user of divine magic.
+		- Unlike Esyl, who allows anyone to make use of her divine power, most gods are far more picky, hence divine magic is generally unpopular. In exchange, however, their limits on how their magic may be used tends to be lax. Divine magic is well-known for silent casting, magic that doesn't even require a linguistic structure to be used. Such abilities are quite literally impossible with human magic.

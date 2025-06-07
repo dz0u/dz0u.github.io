@@ -19,3 +19,4 @@ ability-tags::
 			- Equipment doesn't go under **character-tags**. Instead, you'll want to put that in its own specialized section.
 		- One thing people might not think of is personality-related character tags. If your character is particularly quiet, you might want to add a **nonverbal** tag.
 - *Ability-Tags* on the other hand are basically things your character can do. Examples might include **denathan-swordsmanship** or **ice-magic**. Keep in mind that our current premise is that your character is still quite inexperienced with combat. Ability tags might also include non-combat skills, like **forging** or **alchemy**.
+- If you need any help with your character's backstory, talk to me directly. This wiki isn't complete, so there might be information not found on it. Also, make sure to read #READ-ME.

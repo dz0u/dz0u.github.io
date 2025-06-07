@@ -1,1 +1,3 @@
+alias:: empire, divine empire, hua, imperial
+
 - The theocratic nation that almost completely dominates the #East of Llethis. Governed by a single #Emperor, its official state religion is the [[Church of Mercy]]. It is diplomatically allied with the [[Kingdom of Duronia]], neutral trading partners with the [[Council of Cania]], and enemies with what it refers to as the "Axis of Evil", the [[Naleanian Commonwealth]], their vassal state the [[Jadralian Marches]], and their ally the [[Principality of Alaris]].

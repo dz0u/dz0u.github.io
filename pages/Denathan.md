@@ -1,0 +1,7 @@
+alias:: denathans, beastfolk, beastkin
+
+- The denathan people descend from a variety of races transformed by the power of #Seth. She created their ancestors, the half-humans, as her persona of #Life, in order to defeat the forces of #Death. They were made for battle, and their ancestors had the power to transform completely from their humanoid forms into beasts of war.
+- The descendants of these heroic warriors are now firmly fixed to their current appearance, but still sport beastly traits, depending on whatever animal or monster the goddess chose to mix with humanoid traits.
+- Culturally, the denathans tend to be matriarchal, though this is not always the case. Sons are usually expected to leave the family unit to marry into a different family upon adulthood, while daughters remain, learning from their mothers. However, the denathan are extremely diverse, and though this behavior is common, other tribes may not follow the same traditions.
+- Though the denathan people are generally very robust and physically fit, their bodies tend to wear down faster than their [[astellian]] neighbors, and they age somewhat quicker, with shorter life expectancies.
+- Denathan are not actually very common. Of the four modern races, they have the lowest population. However, due to their diversity, they have an advantage in exploration and conquest. Almost the entire Denathan population lives in the [[Naleanian Commonwealth]], which has earned a fortune through conquest and trade.

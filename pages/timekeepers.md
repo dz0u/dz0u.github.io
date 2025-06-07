@@ -1,0 +1,1 @@
+- The mysterious ancestor race of the #astellians. They served #Akasha in the Library of #Records, but no information of them after the end of the Middle Era can be ascertained. Little before it is known as well.

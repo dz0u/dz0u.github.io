@@ -1,0 +1,6 @@
+alias:: commonwealth, naleania, naleanian
+
+- A thalassocracy that dominates all trade between the #East and #West, Naleania's geopolitical position in recent years has grown tenuous. The nation is a republic, but not all parts of it have equal voting power, and the majority of decisions made come from the central territories of Naleania.
+- About forty years ago, a diplomatic disaster and increased friction between a protectionist #Emperor and the Commonwealth resulted in a war. The Commonwealth won, penetrating into #Hua itself, conquering a large part of the north before a truce was written.
+- However, despite its overwhelming naval power, the Commonwealth does not have a large population, at least not in comparison to the Divine Empire. It does not have the resources to sustain a long war, and the recent conflict with #Cania has been very unpopular.
+- Still, Naleania is the wealthiest nation in the world, rich with trade. It is allies with #Alaris, and suzerain of #Jadralia. Its people are largely treated fairly, and it supports the work of mages. It is for the latter reason that the legendary #Witch of the #West, [[Lulunata Azureus]], has chosen to build her atelier there, in the costal city of #Lakali.

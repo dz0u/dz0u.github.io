@@ -1,0 +1,7 @@
+alias:: astellians
+
+- At the end of the middle ages, #Akasha took most of the #timekeepers away to the Library of #Records, but some remained in Llethis. Cut off from the god's divinity, they eventually became the Astellian people.
+	- Astellians are characterized by their rounded ears, four, similar, well-proportioned limbs, and lack of tail. It's theorized that Akasha's influence was the most stable, and thus, Astellians resemble the human ancestors the most.
+	- Because of this, Astellians are known for being resilient to disease, contagion, and miasma. Astellians tend to recover quickly from injury, and tend to have long lifespans with high fecundity. They are also well-known for physical strength and durability.
+- Culturally, Astellians tend to center around patriarchal family structures. This is evident in their naming system, where sons of the family maintain the family's surname, while daughters marry into a different surname. They are otherwise quite diverse. Astellians are by-and-large spirit worshippers. The [[Astellian Spirits]] faith is the center of their spiritual culture.
+- Astellians have little problems having children with members of the other races. Mixed-blood astellians generally share the same good health of their parents, and may have traits of both, only one, or some other combination of them.

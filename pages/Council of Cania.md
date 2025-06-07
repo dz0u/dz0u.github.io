@@ -1,0 +1,6 @@
+alias:: council, cania, canian
+
+- About twenty years ago, the Canian Emperor was overthrown by the army. After a few years of dictatorship, a revolution began, initiated by the dissident [[Eos Sithe]] and [[Denathan]] peoples. Their revolutionary ideas however, spread rapidly through the poor [[Astellians]], who made up most of the population, and even the military.
+- Eventually, the revolution became a full-scale civil war. After a decade of brutal fighting, the victors were the [[Liberation Army of Cania]], a communist movement.
+- #Alaris, the nearest neighbor of Cania, invaded at this point, beginning a war that has not since ended. The ideals espoused by the Liberation Army spread, sparking miniature revolutions all over the #West. Cania has the largest population on the western continent, and has been fighting a defensive war against every other nation there for the last four years.
+- At the current stage, the front is a complete stalemate. A ceasefire has been called, and held, for about six months now. Some believe it will be permanent. Others are preparing for it to break.
