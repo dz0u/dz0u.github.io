@@ -5,3 +5,12 @@ alias:: fairy, fairies, fair folk, fae, faery, faeries
 - Because they were an earlier prototype, the Eos Sithe did not depend heavily on the Dreamer's divinity, and were able to persist even after the god was sealed away. They are therefore the most unique of the living four races, and cannot actually reproduce with them, making them their own species. Eos Sithe live much longer than the others, about twice as long as the average #Denathan. They also have children rarely, often raising one to adulthood before having a second.
 - Because of this, the Eos Sithe have close family ties. They live in extended family units for the most part, and are culturally neither patriarchal or matriarchal. Indeed, there is little difference in status or even appearance between the sexes for many of the Eos Sithe.
 - Almost the entire population of the [[Kingdom of Duronia]] is made of the Eos Sithe, and about half of the [[Principality of Alaris]]. Culturally, they are a proud people, and famed as master craftsmen throughout Llethis. Their works are highly prized in the [[Hua Divine Empire]].
+- ## Culture
+- ### Birthrate Crisis
+	- Because the Eos Sithe have children so rarely, the few children they have are deeply cherished. At the same time however, Eos Sithe children tend to have high expectations placed upon them. In modern times, these effects are compounding. Under pressure from the younger races, modern Eos Sithe tend to form smaller family units, more distant from their traditional structures.
+	- One of the problems is that their culture is still extremely feudal. Many Eos Sithe are not able to move freely without permission from their feudal lord. This only makes the low birthrate worse, as individuals meet fewer other individuals.
+- ### Feudalism and Otherness
+	- In general, the Eos Sithe feel rather distant from their leaders, and as such, tend to rely largely on Common Law, or generally-held beliefs and traditions. These can be very backward and old-fashioned. This is unfortunately, just how it happens to be.
+- ### Taboos
+	- Do not touch their wings! Eos Sithe wings are not like Lu wings, they are fragile. Also, do not touch the antennae. They are also fragile, and very sensitive too.
+	- The Eos Sithe are not particularly religious, and do not take kindly to people who evangelize or are constantly preaching. This tends to bring them into conflict with the #Astellians, who are fond of doing just that.
