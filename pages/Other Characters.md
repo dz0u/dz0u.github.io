@@ -1,2 +1,3 @@
 - Format might be somewhat messy
 - [[Incredible Miracle]] characters
+- [[The Good City of Beacon]]
