@@ -7,3 +7,4 @@ public:: true
 - #System
 - [[Character Sheet]]
 - #READ-ME
+- [[BGM]]

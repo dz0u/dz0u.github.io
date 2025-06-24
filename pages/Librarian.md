@@ -1,0 +1,1 @@
+- The devotees of #Akasha, the Librarians are so-named because they assist in keeping #records. They are not necessarily #Timekeepers, though most Librarians are. Librarians wield divine magic that alters the past and future, creates barriers and wards, and preserves the truth.

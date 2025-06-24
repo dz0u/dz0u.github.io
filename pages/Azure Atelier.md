@@ -1,0 +1,15 @@
+- The most prestigious institute of magical studies in the #West and possibly the world altogether. Headed by the [[Immortal Witch]], the atelier boasts four master instructors, and a number of journeymen mages who lecture frequently at the Atelier's public readings.
+- # Instructors
+	- [[Lulunata Azureus]], one of the three great #Witches. She specializes in #transmutation magic. #Denathan.
+	- [[Quinta]], a [[Librarian]] and master mage, a #Demon.
+	- [[Ranu]], the Thunderer, one of the three magus claiming the title of "fastest in the world", #Astellian.
+	- [[Aster Belliad]], a simple master mage with no official records, #Denathan.
+- ## Journeymen
+	- [[Elendril Starchaser]], a magus who studies divination, an [[Eos Sithe]].
+	- [[Sirius Suhayel]], an #Astellian magus currently in prison.
+	- [[Huo Xing]], a #Lu magus in a collaboration with #Taichao.
+- ## Students
+	- ### Senior
+		- [[Violet]], an #Astellian. Signature magic, *wingcraft*.
+		- [[Haullen Bywood]], #Astellian. Signature magic, *from dust*.
+		- [[Isa Namuid]], a #Demon. Signature magic, *inktouch*.
