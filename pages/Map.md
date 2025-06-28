@@ -1,3 +1,5 @@
+- ![Hagall_Kurohara-teien.mp3](../assets/Hagall_Kurohara-teien_1751148152188_0.mp3)
+	- <small> 黒花庭園 (Black Rose Garden) - Hagali </small>
 - ![Llethis 2025-05-26-23-56.png](../assets/Llethis_2025-05-26-23-56_1748413826386_0.png)
 - Nations of Llethis:
 	- [[Hua Divine Empire]]: A theocracy that unifies the Eastern region. Primarily #Lu peoples.

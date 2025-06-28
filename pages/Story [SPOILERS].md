@@ -1,5 +1,7 @@
 # Warning: Spoilers Ahead!
 background-color:: red
+- ![Hagall_Lullaby-for-TiuLii__Loop.mp3](../assets/Hagall_Lullaby-for-TiuLii_Loop_1751147425274_0.mp3)
+	- <small> Lullaby for Tiu Lii - Hagali </small>
 - Set in the late 14th century in Llethis, our protagonists are students of Lulunata Azureus's Atelier of magic. They are considered apprentices, that is, they're just beginning their magical journey. To have been accepted by literally the second-most prestigious atelier in the world, they would need to already have a little magical talent. For example, they might have received 4 or so years of schooling at an institution of magic, or been taught by a family member or tutor, or are simply a self-taught genius.
 - There is also the testing fee, which isn't cheap. Tuition itself is free and living expenses are actually completely covered, but simply to get a chance to apply, you need to scrounge together 10 lumens.
 - ## Prologue
