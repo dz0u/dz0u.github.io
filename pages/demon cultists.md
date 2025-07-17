@@ -1,0 +1,5 @@
+alias:: demon worshippers, demon worship, demon worshipper, demon cultist
+
+- Even to this day, there are those who worship the Dreamer, seeking their own desperate desires. Most refer to them as demon cultists. It is believed that demon cultists are an organized group attempting to summon demons into this world to destabilize the existing nations.
+- This may be true to some small extent, but most demon "cultists" are ordinary people who came across something they never should have, and tried to make their wishes come true. The demons they summon are often themselves, twisted into horrible forms.
+- The Dreamer herself has never cultivated a proper faith. Her connection to individuals is truly personal. She is a kind goddess, a loving goddess, but she does not love humanity as it is. In her own twisted way, she gives you nothing but happiness.

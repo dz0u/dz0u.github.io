@@ -1,0 +1,5 @@
+alias:: lightchaser
+
+- The faithful of [[Radiance]] call themselves Lightchasers, because they are dedicated to pursuing the Light in all its splendid forms. Like their goddess, they never align themselves with one path or one side, believing instead that there are as many roads to a destination as rays of the sun.
+- Almost all have never met [[Viola Corvus]] in person. How could they? Their faith is *older* than she is. Ever since the angels vanished, there have been those who still chase after their light. Entire races of Lightchaser have come and gone in the slow churning of time.
+- There is no official divine magic of Radiance. This is because Viola never grants power to those she has not met in person. Instead, each Lightchaser develops their own form of light magic to grow closer to what they see as the ultimate truth and devotion.

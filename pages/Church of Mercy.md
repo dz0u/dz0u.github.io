@@ -1,2 +1,3 @@
 - The official state religion of the [[Hua Divine Empire]]. Despite its status as the most powerful faith in Llethis, it is only the 5th most-practiced faith in Llethis. Even in Hua, the folk religions centered around the #Ruisi have more than double the followers. Despite this, the Church of Mercy remains in its status primarily because it *is* the oldest religion of Llethis, dating back to the Mythological Era.
 - The supreme goddess of the Church of Mercy is #Shiyin .
+- The Church of Mercy is known to possess multiple wondrous Divine #Magics. Among them are the greatest healing spells in the world.
