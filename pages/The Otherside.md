@@ -1,0 +1,15 @@
+- Name: Fujikawa Shouko
+- Age: 25
+- Gender: F
+- Homeworld: Earth-2213
+- Species: Human
+- ---
+- Former Occupation: Student
+- Personality: Quiet and nice to be around. Very focused on the practical goals at any moment, and seems a bit dazed or confused when asked about anything outside of that scope. Suffers from dysthymic disorder (persistent depressive disorder).
+- Skills/Talents: Not many.
+- Equipment: Translation tool, storage cube, an ACS monitoring device, and a multitool.
+- Bounty: 0
+- ---
+- Backstory: Her father worked in offshore tidal energy generation. He was proud of his work, and rarely returned home to visit his wife and daughter. Her mother, when she was about six, abandoned their family and disappeared. Shouko grew up practically alone. She's not certain when her dysthymic symptoms began, but she's experienced them for over two years now, as well as occasional major depressive episodes. Despite the medication and the occasional therapy, simply living feels exhausting to her.
+- Eight years after the Merger, the city of Tokyo remains, partially rebuilt by the survivors. Along with it still exists the Anti-Criminality System, ACS, which monitors all citizens of the municipality under a central AI. Monitoring devices like Shouko's choker emit warnings when the AI determines the wearer is about to commit a crime, and emits shocks if the crime is violent. Four months ago, she tried to overdose on her medication, but the choker stopped her long enough for police to arrive and put her in a mental health facility. Unable to end her own suffering, she has finally gotten the courage and energy to find a place where something *else* can do it for her.
+- While this may seem to imply Shouko is constantly suicidal, this isn't actually the case. As long as she takes her antidepressants, she manages. But when the really bad episodes happen, she feels that it's no longer possible for her to bear it any longer.
