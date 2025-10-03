@@ -1,0 +1,385 @@
+{:blocks (
+{:block/content "This glossary is not a comprehensive view of the world of Llethis. Clarification can be found on this wiki and by asking in the discord."
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "68df57df-9483-4bdf-891e-7e3318ef1984"}
+:block/parent 
+{:block/uuid #uuid "68df57df-9483-4bdf-891e-7e3318ef1984"}
+:block/properties 
+{}
+:block/uuid #uuid "68df57f3-d6e5-4354-9400-65ca55d7550c"} 
+{:block/created-at 1759510961631
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 0
+:scale [1 1]
+:pageId "68df57f3-d6e5-4354-9400-65ca55d7550c"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 88.66667175292969]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "9822f2f0-a015-11f0-ad91-d1993009fdb4"
+:noFill false
+:point [176 808]
+:parentId "68df57df-9483-4bdf-891e-7e3318ef1984"
+:collapsedHeight 0
+:nonce 1759467505575}}
+:block/updated-at 1759510961631} 
+{:block/content "Relating To: The Gods"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "68df57f3-d6e5-4354-9400-65ca55d7550c"}
+:block/parent 
+{:block/uuid #uuid "68df57df-9483-4bdf-891e-7e3318ef1984"}
+:block/uuid #uuid "68e00261-07bc-4721-8340-21dcca0f3bc8"} 
+{:block/created-at 1759511144221
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 1
+:scale [1 1]
+:pageId "68e00261-07bc-4721-8340-21dcca0f3bc8"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 40.66666793823242]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "2c292180-a07b-11f0-ad91-d1993009fdb4"
+:noFill false
+:point [616 808]
+:parentId "68df57df-9483-4bdf-891e-7e3318ef1984"
+:collapsedHeight 0
+:nonce 1759511133314}}
+:block/updated-at 1759511144221} 
+{:block/created-at 1759511199037
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 2
+:scale [1 1]
+:pageId "ea3e7c53-a954-4b20-be2c-414158af29ab"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 248.66668616700863]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "378a7dd0-a07b-11f0-ad91-d1993009fdb4"
+:noFill false
+:point [616 864]
+:parentId "68df57df-9483-4bdf-891e-7e3318ef1984"
+:collapsedHeight 0
+:nonce 1759511152175}}
+:block/updated-at 1759511199037} 
+{:block/created-at 1759514650470
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 3
+:scale [1 1]
+:pageId "6843d7c3-413c-4e55-9dc2-310cbd285f9d"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 248.66642775807603]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "5956d5d0-a07b-11f0-ad91-d1993009fdb4"
+:noFill false
+:point [616 1128]
+:parentId "68df57df-9483-4bdf-891e-7e3318ef1984"
+:collapsedHeight 0
+:nonce 1759511208903}}
+:block/updated-at 1759514650470} 
+{:block/created-at 1759515201160
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 4
+:scale [1 1]
+:pageId "68413ae9-8e1d-44a4-91cb-806949b520e1"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 200.66673308396415]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "b338d340-a07c-11f0-ad91-d1993009fdb4"
+:noFill false
+:point [616 2312]
+:parentId "68df57df-9483-4bdf-891e-7e3318ef1984"
+:collapsedHeight 0
+:nonce 1759511789956}}
+:block/updated-at 1759515201160} 
+{:block/created-at 1759514651979
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 5
+:scale [1 1]
+:pageId "68e00426-23c9-43f2-bfbe-ce190d167d4d"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 200.66673308396415]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "6d7585a0-a07d-11f0-ad91-d1993009fdb4"
+:noFill false
+:point [616 1392]
+:parentId "68df57df-9483-4bdf-891e-7e3318ef1984"
+:collapsedHeight 0
+:nonce 1759512102114}}
+:block/updated-at 1759514651979} 
+{:block/created-at 1759514658544
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 6
+:scale [1 1]
+:pageId "68438180-6138-407b-8c7e-084b4ed9cabc"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 224.6666263603859]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "eb9c71a0-a07d-11f0-ad91-d1993009fdb4"
+:noFill false
+:point [616 1840]
+:parentId "68df57df-9483-4bdf-891e-7e3318ef1984"
+:collapsedHeight 0
+:nonce 1759512313644}}
+:block/updated-at 1759514658544} 
+{:block/created-at 1759515206660
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 7
+:scale [1 1]
+:pageId "68e00736-0bfc-47ec-a3fb-d0c7bfa6bc44"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 200.6666717529297]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "4e9ad280-a081-11f0-acfe-af0846806b55"
+:noFill false
+:point [616 2536]
+:parentId "68df57df-9483-4bdf-891e-7e3318ef1984"
+:collapsedHeight 0
+:nonce 1759513768110}}
+:block/updated-at 1759515206660} 
+{:block/created-at 1759515208641
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 8
+:scale [1 1]
+:pageId "68e00a70-4871-4d13-985c-992d9b9ffe7b"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 200.6666717529297]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "53599310-a081-11f0-acfe-af0846806b55"
+:noFill false
+:point [616 2768]
+:parentId "68df57df-9483-4bdf-891e-7e3318ef1984"
+:collapsedHeight 0
+:nonce 1759513776074}}
+:block/updated-at 1759515208641} 
+{:block/created-at 1759515214249
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 9
+:scale [1 1]
+:pageId "68e00b86-70b1-4d11-a44f-e35aba292f54"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 200.66673308396415]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "5ca99b90-a081-11f0-acfe-af0846806b55"
+:noFill false
+:point [616 2992]
+:parentId "68df57df-9483-4bdf-891e-7e3318ef1984"
+:collapsedHeight 0
+:nonce 1759513791691}}
+:block/updated-at 1759515214249} 
+{:block/created-at 1759515216647
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 10
+:scale [1 1]
+:pageId "68e00c5e-82ba-4290-b209-31e8f7e878ac"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 200.6666717529297]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "616241a0-a081-11f0-acfe-af0846806b55"
+:noFill false
+:point [616 3216]
+:parentId "68df57df-9483-4bdf-891e-7e3318ef1984"
+:collapsedHeight 0
+:nonce 1759513799692}}
+:block/updated-at 1759515216647} 
+{:block/created-at 1759514656462
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 11
+:scale [1 1]
+:pageId "68e00e2f-d549-4cad-adbf-68e8f521c887"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 200.6666717529297]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "40f9d480-a083-11f0-acfe-af0846806b55"
+:noFill false
+:point [616 1616]
+:parentId "68df57df-9483-4bdf-891e-7e3318ef1984"
+:collapsedHeight 0
+:nonce 1759514604232}}
+:block/updated-at 1759514656462} 
+{:block/created-at 1759515195929
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 12
+:scale [1 1]
+:pageId "68e0117c-806e-4b55-a93f-35d50060f456"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 200.66673308396415]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "9c1b2fc0-a084-11f0-acfe-af0846806b55"
+:noFill false
+:point [616 2088]
+:parentId "68df57df-9483-4bdf-891e-7e3318ef1984"
+:collapsedHeight 0
+:nonce 1759515186568}}
+:block/updated-at 1759515195929})
+:pages (
+{:block/uuid #uuid "68df57df-9483-4bdf-891e-7e3318ef1984"
+:block/properties 
+{:ls-type :whiteboard-page
+:logseq.tldraw.page 
+{:id "68df57df-9483-4bdf-891e-7e3318ef1984"
+:name "llethis glossary"
+:bindings 
+{}
+:nonce 1
+:assets []
+:shapes-index ("9822f2f0-a015-11f0-ad91-d1993009fdb4" "2c292180-a07b-11f0-ad91-d1993009fdb4" "378a7dd0-a07b-11f0-ad91-d1993009fdb4" "5956d5d0-a07b-11f0-ad91-d1993009fdb4" "b338d340-a07c-11f0-ad91-d1993009fdb4" "6d7585a0-a07d-11f0-ad91-d1993009fdb4" "eb9c71a0-a07d-11f0-ad91-d1993009fdb4" "4e9ad280-a081-11f0-acfe-af0846806b55" "53599310-a081-11f0-acfe-af0846806b55" "5ca99b90-a081-11f0-acfe-af0846806b55" "616241a0-a081-11f0-acfe-af0846806b55" "40f9d480-a083-11f0-acfe-af0846806b55" "9c1b2fc0-a084-11f0-acfe-af0846806b55")}}
+:block/updated-at 1759515216647
+:block/created-at 1759467487939
+:block/type "whiteboard"
+:block/name "llethis glossary"
+:block/original-name "llethis glossary"})}

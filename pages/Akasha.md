@@ -1,2 +1,10 @@
+true-name:: Akasha
+rank:: Records
+other-names:: The Akashic Library
+symbols:: books
+era-of-birth:: Mythological
+allegiance:: Order
+status:: missing
+
 - The of #deity of #Records, keeper of souls and deliverer of death. It holds jurisdiction over time, and determines the order of events. In ancient times, it was served by the #timekeepers, who vanished in the Mythological Era long ago.
 - Unlike many now-unknown Elder Gods of the Mythological Era, Akasha has survived to the Modern Era, a fact demonstrated by the fact that time, mostly, still works as expected. However, things have not been looking good. There are no more timekeepers, Akasha itself has not been witnessed in all of mortal history by prophets, the business of divination is turning into a free-for-all with nobody to protect the secrets of the past and future, and time itself is breaking down all over the world, and has been, in the past and the future.

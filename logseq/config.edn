@@ -308,7 +308,7 @@
  ;;  :charge-range    600}   ; Default value: 600
 
  ;; Favorites to list on the left sidebar
- :favorites ["Character Sheet" "story [spoilers]" "Pantheon" "Map" "1374" "Story" "Timeline" "Contents" "llethis wb" "Llethis Home"]
+ :favorites ["llethis glossary" "Character Sheet" "story [spoilers]" "Pantheon" "Map" "1374" "Story" "Timeline" "Contents" "llethis wb" "Llethis Home"]
 
  ;; Set flashcards interval.
  ;; Expected value:
