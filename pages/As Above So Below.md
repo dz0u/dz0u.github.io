@@ -1,8 +1,7 @@
 alias:: triste, triste rolket, Triste, Triste Rolket
 
 - #+BEGIN_CENTER
-  **What is the name of the monster I am becoming?**
-  
+  DEAR DIARY
   #+END_CENTER
 	- *My name is Triste Rolket.* And so likely is yours, as you read this. You wrote this to remind yourself of who you are. You chose to use different scripts for different additions to this diary, so that you would know which was the closest to truth. `Be careful, never let another see these pages. We, the you who came before, are the only ones you can trust.`
 	- ### `1` *The Children of Adrets are always Adrets*
@@ -11,8 +10,12 @@ alias:: triste, triste rolket, Triste, Triste Rolket
 		- *I don't remember much after that. Father's been avoiding us. He looks at me as if I were a different person. I think he's going to leave. ■ visits all the time now. He's smart, but he's not like father. Mother tells me to listen to him. He's been teaching me about the Song. It's hard to remember, but I think I'm starting to understand.*
 		- *I haven't told them, but sometimes I don't remember who I am, but I'm writing it down here so that I can check.*
 	- ### `38` The Second Rule is to Never Draw Without Intending to Fire
-		- Which is good advice, no matter how annoying ■ is when he starts talking about it again. He says it's because I keep forgetting. I tell him I don't like forgetting either, but he laughs it off and keeps saying that it's convenient. [[draws/2025-11-01-12-12-25.excalidraw]]
-		- We visited mother's grave together. I'm glad ■ remembers the appointment. I forget things, so I need to remember what I'm training for.
-		- In two days, the Company opens recruitment again. I need to get one of the spots. ■ says I'm not old enough, but it's not as if either of us know my actual age. I could be older than he is.
-		- Even if I forget everything I learned before the selection, my body will still remember. I can't even keep track of how long I've been preparing. I've tried a few tests recently with ■. Anything before three years ago is completely lost. I think my condition is getting worse. According to my younger self, I used to be able to remember things I forgot, on better days. I can't do that anymore. If you're reading this and can't remember when it was written, your name is Triste Rolket and you wrote this in 1123 After-Tides.
-	-
+		- Which is good advice, no matter how annoying ■ is when he starts talking about it again. He says it's because I keep forgetting. I tell him I don't like forgetting either, but he laughs it off and keeps saying that it's convenient.
+		- ![image.png](../assets/image_1762025495355_0.png){:height 125, :width 198} (my revolver! I nearly shot someone with it today!)
+		- We visited mother's grave together. I'm glad ■ remembers the appointment. I forget things, so I need to remember **what** I'm training for.
+		- In two days, the Company opens recruitment again. I need to get one of the spots. ■ says I'm not old enough, but it's not as if either of us know my actual age. I could be older than he **is**.
+		- Even if I forget everything I learned before **the** selection, my body will still remember. I can't even keep track of how long I've been preparing. I've tried a few tests recently with ■. Anything before three years ago is completely lost. I think my condition is getting worse. According to my younger self, I used to be able to remember things I forgot, on better days. I can't do that anymore. If you're reading this and can't remember when it was written, your **name** is Triste Rolket and you wrote this in 1123 After-Tides.
+	- ### `102` Some of These Pages are Missing
+		- `and it's ■, I know it is. Out `**of**` everyone I talk to, he's the only one who could've done it. He's betrayed me, I know he has, but I can't remember it.`
+		- `He wants me to help him tomorrow, he says he's found more bandits gathering on the Isle. I can't remember `**the**` last ones. Are they bandits, or are they something else? Where did my teammates really go? Was that a `**monster**` we slew, or a man? Who has really been writing in my diary? Was it father that killed mother or was it me? Who has been writing in my hand? Where do these trophies come from? `**I**` feel as if I `**am**` losing my mind.`
+		- `It feels as if the birds are no longer singing on the Isle. My friends look at me as if I were a different person. ■ is `**becoming**` even more demanding, he knows that I can't remember the things he's done to me, the things I've done to myself. When I close my eyes, I hear the sound of the tides above. One day, will I forget even my name`**?**
