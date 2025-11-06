@@ -19,3 +19,74 @@ alias:: triste, triste rolket, Triste, Triste Rolket
 		- `and it's ■, I know it is. Out `**of**` everyone I talk to, he's the only one who could've done it. He's betrayed me, I know he has, but I can't remember it.`
 		- `He wants me to help him tomorrow, he says he's found more bandits gathering on the Isle. I can't remember `**the**` last ones. Are they bandits, or are they something else? Where did my teammates really go? Was that a `**monster**` we slew, or a man? Who has really been writing in my diary? Was it father that killed mother or was it me? Who has been writing in my hand? Where do these trophies come from? `**I**` feel as if I `**am**` losing my mind.`
 		- `It feels as if the birds are no longer singing on the Isle. My friends look at me as if I were a different person. ■ is `**becoming**` even more demanding, he knows that I can't remember the things he's done to me, the things I've done to myself. When I close my eyes, I hear the sound of the tides above. One day, will I forget even my name`**?**
+- ---
+- #+BEGIN_CENTER
+  **CHARACTER STATS**
+  #+END_CENTER
+- #+BEGIN_CENTER
+  [[Power:]] 7
+  [[Adret Urchin]] 
+  #+END_CENTER
+- #### Scores
+	- | Strength | 0 |
+	  | Fortitude | 30 |
+	  | Agility | 0 |
+	  | Intelligence | 15 |
+	  | Willpower | 50 |
+	  | Charisma | 0 |
+	- | Light Weapons | 0 |
+	  | Medium Weapons | 0 |
+	  | Heavy Weapons | 0 |
+	  | Ignition Weapons | 20 |
+	  | Elemental Weapons | 0 |
+	  | Martial Arts | 0 |
+	- | Puresong | 30 |
+	  | Flamecharm | 0 |
+	  | Thundercall | 0 |
+	  | Frostdraw | 0 |
+	  | Galebreathe | 0 |
+	  | Earthcrush | 0 |
+	  | Shadowcast | 0 |
+	  | Ironsing | 0 |
+	  | Bloodrend | 0 |
+	  | Lifeweave | 0 |
+	  | Lightkeep | 0 |
+- ---
+- #+BEGIN_CENTER
+  **CHECKS AND ROLLS**
+  #+END_CENTER
+	- **Acrobatics:**
+	- **Arcana:**
+	- **Athletics:**
+	- **Constitution:**
+	- **Deception:**
+	- **History:**
+	- **Intimidation:**
+	- **Insight:**
+	- **Medicine:**
+	- **Perception:**
+	- **Performance:**
+	- **Persuasion:**
+	- **Religion:**
+	- **Sleight of Hand:** 1x G
+	- **Stability:**
+	- **Stealth:** 1x G
+	- **Survival:**
+- ---
+- #+BEGIN_CENTER
+  **TALENTS**
+  #+END_CENTER
+- [5 Ignition Weapons] **Rifleman:** Your character is capable of using Ignition Weapons. They can craft basic bullets out of iron.
+- [5 Intelligence] **Florist**: You now know which types of flowers and herbs are useful for medicine and alchemy, and can recognize them in the wild.
+- [10 Intelligence] **Ethereal**: You’ve spent enough time around Ether to recognize its invisible influence.
+- [30 Willpower] **Double Check**: Whenever you feel your eyes just didn't really get the picture, you can't help but take another look into the situation. If you fail a Perception Check, roll an Insight Check afterwards.
+- [25 Intelligence] **Apothecary**: You now know how to brew potions by gathering and combining ingredients found throughout Lumen. Potions can be brewed using a cauldron.
+- [30 Fortitude + 30 Willpower] **Steel Skull**: You won't go down that easily. It is much harder for you to be rendered unconscious, only occurring in cases of extreme overpowering.
+- [20 Ignition Weapons] **Heatwhipper****:** You're quite familiar with the shape and weight of your firearm, able to efficiently use it as a blunt weapon during close combat.
+- ---
+- #+BEGIN_CENTER
+  **MANTRAS**
+  #+END_CENTER
+- ★☆☆☆☆ - [Agility, Puresong] **Adrenaline Surge**: Charge your veins with a surge of Ether, heightening your speed and reflexes for a short period.
+- ★☆☆☆☆ - [Intelligence, Puresong] **Summon Cauldron**: After a brief period of visualization, conjure a Songborne cauldron from your memories, ready for brewery.
+- ★★☆☆☆ - [Intelligence, Puresong] **Neural Pathway**: Using your mind's eye, force your imagined position into reality, appearing to teleport a short distance. You alone know that the world moved, not you.

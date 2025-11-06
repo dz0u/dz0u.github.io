@@ -1,0 +1,6 @@
+- **Adret**: The Adrets are a recently arrived aspect of spiritually adept individuals that make up the bulk of the greatest militant and scholarly force in the world; The Central Authority. The spirituality is derived from the markings upon their face, representing possible futures in life, or what they are to become. When gaining these markings, it is up to the Adret to find what they mean on their own.
+	- **Stat Bonuses**:+5 Willpower, +5 Charisma
+	- **Racial Talent:** Starchild - You are not of these lands, forged instead by something greater. Your people were created to adapt. Every time you increase your Power Level , gain the ability to move 5 points of your invested Stats into any other Stat. This does not remove Talents or Mantras, even if you fall below their requirements.
+- **Urchin**: After surviving a poor and bleak childhood, you know how to make the most out of the little you’ve been given. Using your street smarts bolsters your spirit for the journey ahead.
+	- **Stat Bonuses**: +5 Agility, +5 Willpower
+	- **Roll Proficiencies**: Sleight of Hand, Stealth
