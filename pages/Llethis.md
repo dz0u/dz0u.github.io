@@ -30,6 +30,34 @@ alias:: main page, wiki, home
 			- Now I am Director of the International Board of Steam Mechanics, and it is my honor to write the preface to this guide for a new generation of mechanics. The machines you will be working on are no longer the simple pumps and engines of my youth. If you're reading this in Alaris or Naleania, you have most likely heard of the new Transcontinental Railway, which may be open by the time you read this. Airships powered by new magical engines now float in the skies, and steam power is replacing sails in the waters.
 			- Every part of our world is changing thanks to this revolutionary new technology. It's possible that wars will be a thing of the past, and soldiers will hang up their guns after visiting the lands of their former enemies, thanks to the new rails! And you will be a part of that transformation!
 			- > Preface. Originally written in modern Astellian by Tomas Rocco in IY1363.
+		- ### *Merlin's Monster Encyclopedia*
+			- What even is a monster? Well, it's simply a beastie that's become a little too big. Nothing's really a monster until the local Adventurers' Guild or Hunter's Association puts a bounty on the creature. Many monsters have powerful magicks in their blood and body, so we mages collect them and make useful potions and tools out of them.
+			- The more magick a monster eats, the stronger it becomes, which is why the bigger the monster, the more dangerous. Some monsters have been domesticated, like the homely landwrym, or the soaring aeronaut.
+			- One great job for a wizard is a caretaker of magical beasties. They have important quirks, and this book is the place to start learning about them.
+			- > Introduction. Originally written in historic Astellian by Merlin in IY933
+		- ### *Flamel's Alchemiciea*
+			- #+BEGIN_CENTER
+			  RECIPE
+			  FOR FINNEKER'S CURE-ALL
+			  ONE TINCTURE FOR EVERY USE
+			  #+END_CENTER
+			- Take 1 tablespoon of blue saltptr,
+			  logseq.order-list-type:: number
+			- mix thoroughly with spirits of oil
+			  logseq.order-list-type:: number
+			- let heat without boiling for half an incense stick
+			  logseq.order-list-type:: number
+			- add many ground herbs (myt, athelas, rootleaf, rotshroom, Lulunata's houndsbane (if it can be gotten), oil of sesame, sassafras starch, half tablespoon each for best results)
+			  logseq.order-list-type:: number
+			- mix into a fine, brown slurry
+			  logseq.order-list-type:: number
+			- strain through water
+			  logseq.order-list-type:: number
+			- resulting tincture should be a very light turquoise
+			  logseq.order-list-type:: number
+			- add goodbee honey until satisfied
+			  logseq.order-list-type:: number
+			- > pg 12. Originally written in Old Astellian by the great mage Flamel in IY1061
 		- ### *Atlas of the World, 1374*
 			- ![Llethis 2025-10-21-13-33.png](../assets/Llethis_2025-10-21-13-33_1761078857376_0.png)
 			- There are six great nations ruling the inhabitable lands of the world. A traveler would do wise to understand that the laws in any one country are largely decided by provincial ordinances, and to be cautious at all times.
@@ -149,3 +177,18 @@ alias:: main page, wiki, home
 				- Story spellcasting is simpler than combat spellcasting. Statuses aren't applied or used. Instead, the story spell rules are used. These rules apply to spellcasting outside of combat, generally for environmental effect or to influence someone without attacking them. They are not used in combat.
 					- When casting a **Story** spell, the player rolls 3d6+Power against a number set by the dm and kept secret. The dm describes the result of the spell, based on the player's roll.
 						- The difference between a story roll and an environmental combat roll is that environmental rolls can only target the surrounding, nonmagical environment.
+	- # Character Sheet
+		- ## Tags
+			- `Tags are the backbone of Llethis's system. Character tags define who your character is, and Ability tags define the magical powers they possess. You get to choose your own tags. Tags can be anything, as seen below:`
+			- ### Character Tags
+				- `Character tags are elements of your character's job, race, background, and personality. You can think of them as how others might see your character. For example, having a background as a` noble `might give you access to high society. As another example, a Lu person might have both the `Lu, Wings` tags. Note that Wings is a character tag, not an ability tag, because it's nonmagical. You can have any number of character tags, of your choice. Additional character tags might be acquired through rp.`
+			- ### Ability Tags
+				- `Ability tags define the magic your character is able to do. For example, `pyrokinesis` might be an ability tag. Your character starts with up to 2 ability tags, but will gain more through rp. Certain magical traits might also fall into ability tags. For example, a dragon's firebreathing would be an ability tag. Ability tags are the only tags used in spellcasting (and thus rolling).`
+		- ## Signature Spells
+			- `Signature spells are granted to you by the dm. They enable you to accomplish effects otherwise impossible. There aren't any rules on what a signature spell might be. You generally start out with a few signature spells based on your character, and more are given out as you continue through rp.`
+		- ## Background
+			- `This section covers the important parts of your character's background.`
+				- ### Backstory
+					- `Important elements might your character's family, their birthplace, their upbringing and introduction to the Atelier.`
+				- ### Awakening
+					- `When did your character learn their magic? If they wield thaumaturgy, how did their deity first make contact with them? Feel free to ask for help if you need it when writing this section.`

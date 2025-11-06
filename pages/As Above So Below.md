@@ -87,6 +87,8 @@ alias:: triste, triste rolket, Triste, Triste Rolket
 - #+BEGIN_CENTER
   **MANTRAS**
   #+END_CENTER
-- ★☆☆☆☆ - [Agility, Puresong] **Adrenaline Surge**: Charge your veins with a surge of Ether, heightening your speed and reflexes for a short period.
-- ★☆☆☆☆ - [Intelligence, Puresong] **Summon Cauldron**: After a brief period of visualization, conjure a Songborne cauldron from your memories, ready for brewery.
-- ★★☆☆☆ - [Intelligence, Puresong] **Neural Pathway**: Using your mind's eye, force your imagined position into reality, appearing to teleport a short distance. You alone know that the world moved, not you.
+	- ★☆☆☆☆ - [Agility, Puresong] **Adrenaline Surge**: Charge your veins with a surge of Ether, heightening your speed and reflexes for a short period.
+	- ★☆☆☆☆ - [Intelligence, Puresong] **Summon Cauldron**: After a brief period of visualization, conjure a Songborne cauldron from your memories, ready for brewery.
+	- ★★☆☆☆ - [Intelligence, Puresong] **Neural Pathway**: Using your mind's eye, force your imagined position into reality, appearing to teleport a short distance. You alone know that the world moved, not you.
+- ---
+-
