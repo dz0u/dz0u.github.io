@@ -1,0 +1,1 @@
+- Llethis is a diverse world with a variety of peoples and their own cultural experiences. However, there are links, similarities, and commonalities that will be addressed here specifically.

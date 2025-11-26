@@ -1,0 +1,119 @@
+{:blocks (
+{:block/content "Priority List"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6d47b4b2-775b-450d-aa18-ebe399e8f10a"}
+:block/parent 
+{:block/uuid #uuid "6833f566-1504-483e-9a91-601a28fd44df"}
+:block/properties 
+{}
+:block/uuid #uuid "6833f59a-38c9-4997-99de-6268b543bd65"} 
+{:block/created-at 1748243465654
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "P"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 0
+:scale [1 1]
+:pageId "Priority List"
+:scaleLevel "md"
+:fill ""
+:compact false
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 218.40000915527344]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "8f9aec60-39ee-11f0-917d-19639a1af44b"
+:noFill false
+:point [2080 16]
+:parentId "6833f566-1504-483e-9a91-601a28fd44df"
+:collapsedHeight 0
+:nonce 1748235722285}}
+:block/updated-at 1748243465654} 
+{:block/created-at 1748242528634
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "P"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 1
+:scale [1 1]
+:pageId "NPC List"
+:scaleLevel "md"
+:fill ""
+:compact false
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 165.5999984741211]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "22730330-39fc-11f0-917d-19639a1af44b"
+:noFill false
+:point [2568 24]
+:parentId "6833f566-1504-483e-9a91-601a28fd44df"
+:collapsedHeight 0
+:nonce 1748241552106}}
+:block/updated-at 1748242528634} 
+{:block/content "public:: true"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6833f566-1504-483e-9a91-601a28fd44df"}
+:block/parent 
+{:block/uuid #uuid "6833f566-1504-483e-9a91-601a28fd44df"}
+:block/properties 
+{:public true}
+:block/uuid #uuid "6d47b4b2-775b-450d-aa18-ebe399e8f10a"} 
+{:block/created-at 1748243465671
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 2
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "678a03e2-39fe-11f0-917d-19639a1af44b"
+:fontWeight 400
+:noFill true
+:point [2481 124.66]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0.16]
+:bindingId "678a03e0-39fe-11f0-917d-19639a1af44b"}
+:end 
+{:id "end"
+:canBind true
+:point [83 0]
+:bindingId "678a03e1-39fe-11f0-917d-19639a1af44b"}}
+:decorations 
+{:end "arrow"}
+:parentId "6833f566-1504-483e-9a91-601a28fd44df"
+:nonce 1748242527086
+:italic false}}
+:block/updated-at 1748243465671})
+:pages (
+{:block/uuid #uuid "6833f566-1504-483e-9a91-601a28fd44df"
+:block/properties 
+{:public true}
+:block/journal? false
+:block/updated-at 1748244066346
+:block/created-at 1748235622699
+:block/type "whiteboard"
+:block/name "llethis wb"
+:block/original-name "llethis wb"})}
