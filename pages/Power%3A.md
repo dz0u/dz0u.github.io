@@ -146,8 +146,8 @@
 	- | Strength | 0 |
 	  | Fortitude | 30 |
 	  | Agility | 0 |
-	  | Intelligence | 15 |
-	  | Willpower | 50 |
+	  | Intelligence | 15 | post 10 |
+	  | Willpower | 50 | post 55 |
 	  | Charisma | 0 |
 	- | Light Weapons | 0 |
 	  | Medium Weapons | 0 |
@@ -156,6 +156,30 @@
 	  | Elemental Weapons | 0 |
 	  | Martial Arts | 0 |
 	- | Puresong | 30 |
+	  | Flamecharm | 0 |
+	  | Thundercall | 0 |
+	  | Frostdraw | 0 |
+	  | Galebreathe | 0 |
+	  | Earthcrush | 0 |
+	  | Shadowcast | 0 |
+	  | Ironsing | 0 |
+	  | Bloodrend | 0 |
+	  | Lifeweave | 0 |
+	  | Lightkeep | 0 |
+- # Power 8 (Piercing Force, Ignore Pain)
+	- | Strength | 0 |
+	  | Fortitude | 40 |
+	  | Agility | 0 |
+	  | Intelligence | 10 |
+	  | Willpower | 55 |
+	  | Charisma | 0 |
+	- | Light Weapons | 0 |
+	  | Medium Weapons | 0 |
+	  | Heavy Weapons | 0 |
+	  | Ignition Weapons | 25 |
+	  | Elemental Weapons | 0 |
+	  | Martial Arts | 0 |
+	- | Puresong | 35 |
 	  | Flamecharm | 0 |
 	  | Thundercall | 0 |
 	  | Frostdraw | 0 |

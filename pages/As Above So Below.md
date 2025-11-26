@@ -29,18 +29,18 @@ alias:: triste, triste rolket, Triste, Triste Rolket
   #+END_CENTER
 - #### Scores
 	- | Strength | 0 |
-	  | Fortitude | 30 |
+	  | Fortitude | 40 |
 	  | Agility | 0 |
-	  | Intelligence | 15 |
-	  | Willpower | 50 |
+	  | Intelligence | 10 |
+	  | Willpower | 55 |
 	  | Charisma | 0 |
 	- | Light Weapons | 0 |
 	  | Medium Weapons | 0 |
 	  | Heavy Weapons | 0 |
-	  | Ignition Weapons | 20 |
+	  | Ignition Weapons | 25 |
 	  | Elemental Weapons | 0 |
 	  | Martial Arts | 0 |
-	- | Puresong | 30 |
+	- | Puresong | 35 |
 	  | Flamecharm | 0 |
 	  | Thundercall | 0 |
 	  | Frostdraw | 0 |
@@ -62,7 +62,7 @@ alias:: triste, triste rolket, Triste, Triste Rolket
 	- **Deception:**
 	- **History:**
 	- **Intimidation:**
-	- **Insight:**
+	- **Insight:** 1x S when discerning weak points
 	- **Medicine:**
 	- **Perception:**
 	- **Performance:**
@@ -83,6 +83,7 @@ alias:: triste, triste rolket, Triste, Triste Rolket
 - [25 Intelligence] **Apothecary**: You now know how to brew potions by gathering and combining ingredients found throughout Lumen. Potions can be brewed using a cauldron.
 - [30 Fortitude + 30 Willpower] **Steel Skull**: You won't go down that easily. It is much harder for you to be rendered unconscious, only occurring in cases of extreme overpowering.
 - [20 Ignition Weapons] **Heatwhipper****:** You're quite familiar with the shape and weight of your firearm, able to efficiently use it as a blunt weapon during close combat.
+- [55 Willpower] **Piercing Force**: When attempting to discern a weak point on a target, gain **S**. Roll Proficiency for Insight. Even if you're slightly off, their defenses won't hinder you.
 - ---
 - #+BEGIN_CENTER
   **MANTRAS**
@@ -90,5 +91,5 @@ alias:: triste, triste rolket, Triste, Triste Rolket
 	- ★☆☆☆☆ - [Agility, Puresong] **Adrenaline Surge**: Charge your veins with a surge of Ether, heightening your speed and reflexes for a short period.
 	- ★☆☆☆☆ - [Intelligence, Puresong] **Summon Cauldron**: After a brief period of visualization, conjure a Songborne cauldron from your memories, ready for brewery.
 	- ★★☆☆☆ - [Intelligence, Puresong] **Neural Pathway**: Using your mind's eye, force your imagined position into reality, appearing to teleport a short distance. You alone know that the world moved, not you.
+	- ★★☆☆☆ - [Fortitude, Puresong] **Ignore Pain**: Ignore pain for a short period of time. You will feel the full impact of all sustained injuries at once after this window elapses.
 - ---
--
