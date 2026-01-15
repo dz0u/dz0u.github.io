@@ -15,8 +15,7 @@ alias:: Sophia,Sophia Gladious
 - ## **Build**
 	- ### Level Spread:
 	  
-	  *Magic:* 0
-	  *Aura:* 70
+	  *Strength:* 70
 	  *Vitality:* 30
 	  
 	  This character is a: Juggernaut
